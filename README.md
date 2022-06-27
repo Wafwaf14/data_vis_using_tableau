@@ -1,7 +1,8 @@
 # data_vis_using_tableau
 Hey ! this repos for my first data vis using tableau dashboard ;
 
-u'ill find the database used and the dashboard result ;
+U'ill find the database used and the dashboard result ;
+
 ###############################
 
 This dashboard represent the sales insight for a company name's AtliQ ;
